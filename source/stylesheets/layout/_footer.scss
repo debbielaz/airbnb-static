@@ -1,6 +1,6 @@
 .footer{
-  background-color: #333333;
-  color: #CCCCCC;
+  background-color: $darkgrey;
+  color: $skygrey;
   padding-top: 40px;
   padding-bottom: 40px;
 
@@ -11,7 +11,7 @@
 }
 
 .footer-icon:hover{
-  color: #FFFD38;
+  color: $yellowpunch;
 }
 
 .share-links {
@@ -33,14 +33,14 @@
 }
 
 .bg-text {
-  background: #4a4a4a;
+  background: $hexgrey;
 }
 .bg-email {
-  background: #aeaeae;
+  background: $lightgrey;
 }
 .bg-twitter {
-  background: #00a3e1;
+  background: $babyblue;
 }
 .bg-facebook {
-  background: #3b5998;
+  background: $marineblue;
 }
